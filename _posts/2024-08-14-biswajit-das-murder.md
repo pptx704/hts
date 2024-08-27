@@ -81,10 +81,10 @@ The reason this murder even got people arrested and punished was because this wa
 
 
 ##### Sources:
-1. [(BBC Bangla) বিশ্বজিৎ হত্যা: মৃত্যুদণ্ড থেকে রেহাই ছয় ছাত্রলীগ নেতা-কর্মীর, হতাশ বিশ্বজিতের পরিবার](https://www.bbc.com/bengali/news-40843272)
-2. [(bdnews24.com) বিশ্বজিৎ ও রাজনৈতিক দ্বৈতনীতি](https://bangla.bdnews24.com/blog/138493)
-3. [(bdnews24.com) বিশ্বজিৎ হত্যা: যাবজ্জীবন সাজাপ্রাপ্ত পলাতক আসামি গ্রেপ্তার](https://bangla.bdnews24.com/bangladesh/article2092587.bdnews)
-4. [(bdnews24.com) বিশ্বজিৎ হত্যা: ১৮ জনের নাম বললেন সাক্ষী](https://bangla.bdnews24.com/bangladesh/article666444.bdnews)
-5. [(The Daily Star) HC verdict on Biswajit murder](https://www.thedailystar.net/editorial/hc-verdict-biswajit-murder-1445563)
-6. [(The Daily Star) Biswajit Murder: HC verdict on Aug 6](https://www.thedailystar.net/backpage/biswajit-murder-hc-verdict-aug-6-1434736)
-7. [(DW) বিশ্বজিৎ হত্যাকাণ্ড: মাত্র দু’জনের মৃত্যুদণ্ড বহাল](https://www.dw.com/bn/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%BF%E0%A7%8E-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1-%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B2/a-39984811)
+1. [বিশ্বজিৎ হত্যা: মৃত্যুদণ্ড থেকে রেহাই ছয় ছাত্রলীগ নেতা-কর্মীর, হতাশ বিশ্বজিতের পরিবার (BBC Bangla) ](https://www.bbc.com/bengali/news-40843272)
+2. [বিশ্বজিৎ ও রাজনৈতিক দ্বৈতনীতি (bdnews24.com)](https://bangla.bdnews24.com/blog/138493)
+3. [বিশ্বজিৎ হত্যা: যাবজ্জীবন সাজাপ্রাপ্ত পলাতক আসামি গ্রেপ্তার (bdnews24.com)](https://bangla.bdnews24.com/bangladesh/article2092587.bdnews)
+4. [বিশ্বজিৎ হত্যা: ১৮ জনের নাম বললেন সাক্ষী (bdnews24.com)](https://bangla.bdnews24.com/bangladesh/article666444.bdnews)
+5. [HC verdict on Biswajit murder (The Daily Star)](https://www.thedailystar.net/editorial/hc-verdict-biswajit-murder-1445563)
+6. [Biswajit Murder: HC verdict on Aug 6 (The Daily Star)](https://www.thedailystar.net/backpage/biswajit-murder-hc-verdict-aug-6-1434736)
+7. [বিশ্বজিৎ হত্যাকাণ্ড: মাত্র দু’জনের মৃত্যুদণ্ড বহাল (DW)](https://www.dw.com/bn/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%9C%E0%A6%BF%E0%A7%8E-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%A3%E0%A7%8D%E0%A6%A1-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1-%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B2/a-39984811)
