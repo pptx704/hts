@@ -8,8 +8,9 @@ post_class: post-template
 <div class="entry-header">
     <!-- Post Title -->
     <h1 class="posttitle">{{ page.title }}</h1>
-    <!-- Author & Date  Box -->
+    <!-- Author & Date Box -->
     {% if page.authors %}
+    {% assign author_count = page.authors | size %}
     {% for newauthor in page.authors %}
     {% assign author = site.authors[newauthor] %}
     <div class="d-flex align-items-center mt-4">
@@ -19,18 +20,35 @@ post_class: post-template
             {% else %}
             <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
             {% endif %}
-        </div>            
+        </div>
         <div>
-        Written by {{ author.display_name }} on 
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+            {{ author.display_name }}{% if author_count == 1 %}, 
+            <span class="post-date">
+                <time datetime="{{ page.date | date:"%Y-%m-%d" }}">
+                    {{ page.date | date_to_string }}
+                </time>
+            </span>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+    
+    {% if author_count > 1 %}
+    <div class="blog-date">
+        <span class="post-date">
+            <time datetime="{{ page.date | date:"%Y-%m-%d" }}">
+                Date Published: {{ page.date | date_to_string }}
+            </time>
+        </span>
         {% if page.last_modified_at %}
         (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
         {% endif %}
-        </div>            
     </div>
-    {% endfor %}
+    {% endif %}
     {% endif %}
 </div>
+
+
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.adsense == "enabled" %}
@@ -42,6 +60,7 @@ post_class: post-template
 
 <!-- Content -->
 {% include article.html %}
+
 
 <!-- Rating -->
 {% if page.rating %}
