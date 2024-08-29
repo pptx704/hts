@@ -8,9 +8,21 @@
     {% endif %}
     <div class="toc mt-4 mb-4 lead">
         <h3 class="font-weight-bold">Summary</h3>
-        {% include toc.html html=content %}
+        {% include toc.html class="" html=content %}
     </div>
     {% endif %}
     <!-- End Toc -->
     {{content}}
 </div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var tables = document.querySelectorAll(".article-post table");
+        tables.forEach(function(table) {
+            var wrapper = document.createElement('div');
+            wrapper.style.overflowX = 'auto';
+            table.parentNode.insertBefore(wrapper, table);
+            wrapper.appendChild(table);
+        });
+    });
+</script>
