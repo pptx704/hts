@@ -18,11 +18,21 @@ authors:
     name: Bibswan Dev Biswas
     display_name: Bibswan Dev Biswas
     avatar: 'assets/images/avatars/neer.jpg'
-    # email: wowthemesnet@gmail.com
     facebook: https://www.facebook.com/bibswan.nir.biswas
     linkedin: https://www.linkedin.com/in/Bibswan%20Deb%20Biswas%20Nir
-    # twitter: https://twitter.com/wowthemesnet
-    description: "Department of Law, University of Dhaka"
+    description: "Law, University of Dhaka"
+  rodaba:
+    name: Rodaba Jaman
+    display_name: Rodaba Jaman
+    avatar: 'assets/images/avatars/rodaba.jpg'
+    facebook: https://www.facebook.com/jaman.rodaba
+    description: "Women and Gender Studies, University of Dhaka"
+  noman:
+    name: Abdullah All Noman
+    display_name: Abdullah All Noman
+    avatar: 'assets/images/avatars/noman.jpg'
+    facebook: https://www.facebook.com/abdullahall.noman.3386585
+    description: "Public Administration, University of Dhaka"
   tanim:
     name: Saleh Mahmud Tanim
     display_name: Saleh Mahmud Tanim

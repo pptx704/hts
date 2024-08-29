@@ -413,6 +413,60 @@ table{
     }
   }
 
+.blog-date {
+    margin-top: 20px;
+}
+
+a {
+    color: #007bff; // Default link color
+    text-decoration: none; // Remove underline
+    font-size: 16px;
+  
+    &:hover {
+      color: #0056b3; // Darker color on hover
+      text-decoration: underline; // Underline on hover
+    }
+  
+    &:focus {
+      outline: none; // Remove outline on focus
+      text-decoration: underline; // Underline on focus
+    }
+  
+    &:visited {
+      color: #007bff; // Color for visited links
+    }
+  
+    &:active {
+      color: #004085; // Color when link is active (clicked)
+    }
+  }
+
+table{
+    width: 100%;
+    margin-bottom: 2rem;
+    border-collapse: collapse;
+    color: #222;
+  
+    th,
+    td {
+      padding: 1.5rem; // Custom padding
+      border: 1px solid #ddd; // Custom border color
+    }
+  
+    thead {
+      background-color: #464545; // Custom header background
+      color: #fff; // Custom header text color
+    }
+  
+    tbody tr:nth-child(odd) {
+      background-color: #f9f9f9; // Custom zebra stripe
+    }
+  
+    tbody tr:hover {
+      background-color: #f1f1f1; // Hover effect
+    }
+  }
+
 //newsletter
 .newsletter {
     h4 {
@@ -461,7 +515,7 @@ table{
     line-height:1.2;
 }
 .entry-featured-image {  
-    width:940px;  
+    width:700px;  
     max-width: 100%;
     text-align:center;
     margin-left:auto;
