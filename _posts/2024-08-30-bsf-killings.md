@@ -49,3 +49,24 @@ Even in 2024, the killings were not stopped. Roisudddin, *a member of 49th Borde
 In recent days, BGB started to counter the dominance of BSF. At the Haripara border in Lalmonirhat's Patgram Upazila, tensions escalated when the Indian Border Security Force (BSF) attempted to build a barbed wire fence close to the zero line. The Border Guard Bangladesh (BGB) intervened, halting the construction, as international law prohibits building within 150 yards of the border. Both forces increased their presence in the area, and the situation led to a flag meeting between the two sides, after which the construction was suspended. The BGB is now closely monitoring the border to ensure local safety. Moreover, in Parshuram, Feni, BSF tried to open another dum in mid August, which would cause suffering for the people in Bangladesh. The BGB strongly condemned it and took necessary steps so that the incident does not take place. Even in mid August, BGB refused to return 5 BSF members who entered our country illegally. But later Indian media took sympathy showing this fact. But BGB had to do this to prove that they have a spine.
 
 Indian media still broadcasts some misinformation highlighting BGB as cruel and irrational glorifying BSF. They are trying to show that due to the leaving of Ex Prime Minister Sheikh Hasina, many locals are trying to leave Bangladesh for what BSF needed to be strong at the borders. But the reality is clear enough. Their media are spreading news that BSF is humane but helpless and that they cannot help thousands of people who are trying to enter India, as Bangladesh is unsafe. The tension between BGB and BSF is shown in a very politicized way in the mainstream Indian medias 
+
+##### Sources
+1. [(Odhikar) BANGLADESH ANNUAL HUMAN RIGHTS REPORT 2023](https://odhikar.org/wp-content/uploads/2024/01/AHRR-2023_Odhikar_English_Final.pdf)
+2. [(UNB) 294 Bangladeshis killed by BSF along border in 10yrs: Home Minister](https://www.unb.com.bd/category/Bangladesh/294-bangladeshis-killed-by-bsf-along-border-in-10yrs-home-minister/22938)
+3. [(Odhikar) Human Rights Violation by Indian Border Security Force (BSF) against Bangladeshi Citizen](https://web.archive.org/web/20210112130037/http://odhikar.org/wp-content/uploads/2021/01/Statistics_Border_2000-2020.pdf)
+4. [(South Asia Journal) India-Bangladesh border killing](http://southasiajournal.net/india-bangladesh-border-killing/)
+5. [(Odhikar) Indian Border Security Force (BSF) and Indian miscreants kill 607 Bangladeshis in 7 years](http://odhikar.org/report-on-human-rights-violations-in-the-india-bangladesh-border/)
+6. [(Reuters) India says 59 killed over last six months on Bangladesh border](https://web.archive.org/web/20081026110404/http://in.reuters.com/article/topNews/idINIndia-35156020080824)
+7. [(Odhikar) Human Rights Violation by Indian Border Security Force (BSF) against Bangladeshi Citizens: 2000 - 2021](https://odhikar.org/wp-content/uploads/2022/02/Border_2000-2021.pdf)
+8.  [(BBC) ফেলানি হত্যার ঘটনার ১০ বছর পেরিয়ে গেলেও বিচার পায়নি পরিবার](https://www.bbc.com/bengali/news-55577744)
+9.  [(The Business Standard) BGB member killed in BSF firing at Benapole border](https://www.tbsnews.net/bangladesh/bgb-member-killed-bsf-firing-benapole-border-779838)
+10. [(Dhaka Tribune) BGB kills BSF man in self defence in Rajshahi](https://www.dhakatribune.com/bangladesh/nation/190659/bgb-kills-bsf-man-in-self-defence-in-rajshahi)
+11. [(Daily Observer) Cruelty: BSF extracts BD youth’s nails](https://www.observerbd.com/news.php?id=195271)
+12. [(BDNews24.com) Family members of Felani want speedy trial in border murder case](https://bdnews24.com/bangladesh/family-members-of-felani-want-speedy-trial-in-border-murder-case)
+13. [(BBC) India-Bangladesh border battle](http://news.bbc.co.uk/2/hi/south_asia/1283068.stm)
+14. [(The Daily Star) Then who killed Felani?](https://www.thedailystar.net/news/then-who-killed-felani)
+15. [(New Age) BSF Kills BGB Soldier on Benapole Border](https://www.newagebd.net/article/223563/bsf-kills-bgb-soldier-on-benapole-border)
+16. [(India Today) India says 59 killed over last six months on Bangladesh border](https://www.indiatoday.in/global/story/india-on-alert-at-bangladesh-border-over-500-people-try-to-enter-india-india-today-global-2579773-2024-08-09)
+17. [(Outlook) Centre Forms Committee To Monitor Situation At India-Bangladesh Border Amid Unrest In Dhaka](https://www.outlookindia.com/national/centre-committee-monitor-india-bangladesh-border-unrest-dhaka-modi-government-amit-shah)
+18. [(Prothom Alo) দহগ্রামে সীমান্ত আইন ভেঙে কাঁটাতারের বেড়া নির্মাণের চেষ্টা বিএসএফের, বিজিবির বাধা](https://www.prothomalo.com/bangladesh/district/jzq7f1epqs)
+19. [(Dhaka Tribune) BSF trooper rapes Bangladeshi woman in custody](https://www.dhakatribune.com/world/south-asia/253709/bsf-trooper-rapes-bangladeshi-woman-in-custody)
