@@ -2,7 +2,7 @@
 layout: post
 title:  "BDR Mutiny: Indian Affairs"
 authors: [ ayan ]
-categories: [ Geopolitics ]
+categories: [ Geopolitics, Military ]
 tags: [India]
 image: assets/images/posts/bdr-1.png
 ---
