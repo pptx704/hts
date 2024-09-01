@@ -20,19 +20,19 @@ authors:
     avatar: 'assets/images/avatars/neer.jpg'
     facebook: https://www.facebook.com/bibswan.nir.biswas
     linkedin: https://www.linkedin.com/in/Bibswan%20Deb%20Biswas%20Nir
-    description: "Law, University of Dhaka"
+    description: "University of Dhaka"
   rodaba:
     name: Rodaba Jaman
     display_name: Rodaba Jaman
     avatar: 'assets/images/avatars/rodaba.jpg'
     facebook: https://www.facebook.com/jaman.rodaba
-    description: "Women and Gender Studies, University of Dhaka"
+    description: "University of Dhaka"
   noman:
     name: Abdullah All Noman
     display_name: Abdullah All Noman
     avatar: 'assets/images/avatars/noman.jpg'
     facebook: https://www.facebook.com/abdullahall.noman.3386585
-    description: "Public Administration, University of Dhaka"
+    description: "University of Dhaka"
   tanim:
     name: Saleh Mahmud Tanim
     display_name: Saleh Mahmud Tanim
@@ -40,12 +40,12 @@ authors:
     email: smtanim915@gmail.com
     linkedin: https://www.linkedin.com/in/SM%20Tanim
     facebook: https://www.facebook.com/salehmahmud.tanim.5
-    description: "Applied Mathematics, University of Dhaka"
+    description: "University of Dhaka"
   ayan:
     name: Ayan Abdullah
     display_name: Ayan Abdullah
     avatar: 'assets/images/avatars/ayan.jpg'
-    description: "Independent Researcher"
+    description: "Researcher"
 
 # Plugins
 plugins:
@@ -65,7 +65,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 8
 paginate_path: /page:num/
     
 # Other
