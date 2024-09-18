@@ -4,7 +4,7 @@ title:  "RAB: BNP's Worst Mistake?"
 authors: [ rodaba ]
 categories: [ Military, Politics ]
 tags: [RAB]
-image: assets/images/posts/rab-1.png
+image: assets/images/posts/rab-1.webp
 ---
 During the previous **Awami League** government, the worsening law and order situation concerned then-Prime Minister **Khaleda Zia.** On *October 10, 2002,* marking the government's one-year anniversary, she acknowledged that the improvement in law and order expected by the public had not occurred, though she promised swift action. Consequently, from *October 16, 2002, to January 9, 2003*, a joint force operation called **"Operation Clean Heart"** was launched to combat illegal weapons and terrorism. The operation involved nearly 24,000 army personnel, 350 navy members, about 1,000 BDR troops, and 700 Ansar and police officers.
 

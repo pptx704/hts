@@ -4,7 +4,7 @@ title: "A Bloody Border: Crimes of BSF"
 authors: [ tanim, rodaba ]
 categories: [ Geopolitics ]
 tags: [BSF, India, BGB]
-image: assets/images/posts/bsf-1.png
+image: assets/images/posts/bsf-1.webp
 ---
 
 The **4,096-kilometer** border between Bangladesh and India, one of the longest in the world, has been a source of tension despite the nations' close ties. Issues like territorial disputes, illegal activities, and economic disparities have fueled conflicts. The border has seen skirmishes, human rights violations, and tragic incidents like the killing of civilians. Although diplomatic efforts and agreements have been made to improve border management, maintaining peace along this complex and porous border remains challenging. 

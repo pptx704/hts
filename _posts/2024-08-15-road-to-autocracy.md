@@ -4,7 +4,7 @@ title:  "1972-1975: Road to Autocracy"
 authors: [ noman, tanim ]
 categories: [ Politics ]
 tags: [Corruption, Violence, Awami League]
-image: assets/images/posts/autocracy-1.png
+image: assets/images/posts/autocracy-1.webp
 ---
 On **15th August of 1975**, **Sheikh Mujibur Rahman**, the first Prime Minister of independent Bangladesh, was slain alongside his family. For many, this is a day of sadness, yet for others, it represents liberation from tyranny It is believed that on that day, the country's sweet stores went completely empty. What happened during his reign that prompted such broad joy upon the death of the country's most popular leader? For this, we have to look back at the period **1972-1975**.
 

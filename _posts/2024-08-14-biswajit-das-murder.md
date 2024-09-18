@@ -4,7 +4,7 @@ title: "Biswajit Das Murder and the Start of Political Blame Games"
 authors: [tanim, ayan]
 categories: [Crime]
 tags: [Violence, Awami League]
-image: assets/images/posts/biswajit-das-murder.png
+image: assets/images/posts/biswajit-das-murder.webp
 ---
 **Bangladesh** has always been trifled with student politics. The victims of these student politics aren't just students, though the last decade showed us even common people could be victims of student politics. Last decade had a huge number of **BSL-related** violence, and the ruling party **Awami League** tried to cover up these incidents as much as possible. One of the incidents they tried to cover up was the murder of **Biswajit Das.**
 

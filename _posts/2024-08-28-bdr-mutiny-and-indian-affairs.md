@@ -4,7 +4,7 @@ title: "BDR Mutiny: Indian Affairs"
 authors: [ ayan ]  
 categories: [ Geopolitics, Military ]  
 tags: [India]  
-image: assets/images/posts/bdr-1.png  
+image: assets/images/posts/bdr-1.webp
 ---
 
 The **BDR revolt in 2009.** Who did it? Who was behind it? Why did it happen?  
@@ -16,7 +16,7 @@ On the surface, the most logical explanation for the mutiny would be the genuine
 
 **On 5 November 2013**, Dhaka Metropolitan Sessions Court sentenced **152 people to death** and **161 to life imprisonment**; another 256 people received sentences between three and ten years for their involvement in the mutiny. The court also acquitted **277 people** who had been charged. The trials were declared unfair by various international organizations, including Humans Right Watch and Amnesty International. Legal experts commented that the sentencing was unprecedented in the recent history of South Asia. 
 > "After the sepoy revolution in 1857, a few thousand sepoys were hanged for mutiny during the British period. Since then such sentencing has not been seen in this subcontinent"
-> -- <cite>Shahdeen Mali</cite>, Jurist
+> -- <cite>Shahdeen Malik</cite>, Jurist
 
 According to an excerpt from **India’s Near East: A New History** by **Avinash Paliwal** Indian involvement was pretty evident in suppressing the BDR revolt.
 

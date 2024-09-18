@@ -17,26 +17,26 @@ authors:
   neer:
     name: Bibswan Dev Biswas
     display_name: Bibswan Dev Biswas
-    avatar: 'assets/images/avatars/neer.jpg'
+    avatar: 'assets/images/avatars/neer.webp'
     facebook: https://www.facebook.com/bibswan.nir.biswas
     linkedin: https://www.linkedin.com/in/Bibswan%20Deb%20Biswas%20Nir
     description: "University of Dhaka"
   rodaba:
     name: Rodaba Jaman
     display_name: Rodaba Jaman
-    avatar: 'assets/images/avatars/rodaba.jpg'
+    avatar: 'assets/images/avatars/rodaba.webp'
     facebook: https://www.facebook.com/jaman.rodaba
     description: "University of Dhaka"
   noman:
     name: Abdullah All Noman
     display_name: Abdullah All Noman
-    avatar: 'assets/images/avatars/noman.jpg'
+    avatar: 'assets/images/avatars/noman.webp'
     facebook: https://www.facebook.com/abdullahall.noman.3386585
     description: "University of Dhaka"
   tanim:
     name: Saleh Mahmud Tanim
     display_name: Saleh Mahmud Tanim
-    avatar: 'assets/images/avatars/tanim.jpg'
+    avatar: 'assets/images/avatars/tanim.webp'
     email: smtanim915@gmail.com
     linkedin: https://www.linkedin.com/in/SM%20Tanim
     facebook: https://www.facebook.com/salehmahmud.tanim.5
@@ -44,8 +44,15 @@ authors:
   ayan:
     name: Ayan Abdullah
     display_name: Ayan Abdullah
-    avatar: 'assets/images/avatars/ayan.jpg'
     description: "Researcher"
+  khalid:
+    name: Khalid Hasan Drobo
+    display_name: Khalid Hasan Drobo
+    description: "Ahsanullah University of Science and Technology"
+  momshad:
+    name: Tanzir Momshad
+    display_name: Tanzir Momshad
+    description: "North South University"
 
 # Plugins
 plugins:
